@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+
+.box {
+    display: inline-block;
+    width: 200px; /* Largura de 30% para três divs alinhadas */
+ 
+    border: 1px solid #ccc;
+}
